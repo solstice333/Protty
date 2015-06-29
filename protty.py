@@ -4,9 +4,8 @@ from Bio.SeqUtils.ProtParam import ProteinAnalysis
 A = "1"
 B = "2"
 C = "3"
-D = "4"
 
-regions = [A, B, C, D]
+regions = [A, B, C]
 
 beg = 0
 end = len(regions)
