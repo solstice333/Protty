@@ -18,4 +18,4 @@ is what you would type.
 
 3. Run
 
-   ./install.py
+   sudo ./install.py
